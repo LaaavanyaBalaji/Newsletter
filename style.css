@@ -1,0 +1,28 @@
+.subs{
+    background-color: rgb(173, 172, 172);
+    margin: 20px;
+    padding: 20px;
+}
+.section{
+    border: 2px solid black;
+    margin: 20px;
+
+
+}
+.container{
+    padding: 20px;
+}
+.button{
+    background-color: rgb(77, 189, 77);
+    color: white;
+    height: 50px;
+    width: 1050px;
+    text-align: center;
+    margin: 20px;
+}
+.button1{
+    align-items: center;
+    text-align: center;
+    background-color:rgb(173, 172, 172);
+    margin: 20px;
+}
